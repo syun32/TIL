@@ -1,38 +1,16 @@
 ---
-title: Welcome
+title: Today Syun Learned
 ---
+---
+## 👉 TIL
+- Today I Learned
+- 매일 코딩하고 공부한 것을 기록
+<br><br><br>
 
-This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
-**Edition** is perfect for documenting your product, application or service.
-It's populated with example content to give you some ideas.
-
-ChatApp is a fictional chat application for sending messages and media to others.
-Teams and friend groups would use ChatApp to stay up to date if it existed.
-
-> [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
-
-### Getting Started
-
-Getting a message sent is quick and easy with ChatApp:
-
-1. Sign up for an account
-2. Add your friends from their email addresses
-3. Type a message or send a photo
-
-> Feel free to send us a message at [feedback@example.com](mailto:feedback@example.com) with your feedback.
-
-### Features
-
-Explore more of ChatApp by reading about our features:
-
-#### Media
-
-Send images, videos and other media to people. Sources include your computer, phone and Facebook.
-
-#### Contact Syncing
-
-Sync your contact list with your phone and/or Facebook contacts. Never lose your contacts between devices again!
-
-#### Devices
-
-ChatApp is available everywhere. Find out how to set it up on your all your devices.
+## 👉 Rules
+>#### 1. 간단하더라도 배운 것, 해낸 것을 기록한다  
+부담갖지 않고 기록에 의미를 둔다
+#### 2. 제목은 "YYYY.MM.DD - 키워드" 의 형식  
+키워드는 주제를 관통하는 간단한 단어로 정한다
+#### 3. 주 1회 한 주의 회고 기록을 한다  
+그 주의 기록한 양, 인상깊게 배운 것을 되짚어본다
