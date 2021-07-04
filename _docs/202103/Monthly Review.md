@@ -1,6 +1,6 @@
 ---
 title: Monthly Review
-category: March,2021
+category: 2021-03 -- March
 order: 1
 ---
 
